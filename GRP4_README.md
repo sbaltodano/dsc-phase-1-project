@@ -97,7 +97,7 @@ More research will need to be done on the characteristics that impact successful
 
 ### Next Steps
 
-Further analyses could yield additional insights for Microsoft's Movie Studios. A few questions to explore given the data available include:
+Further analyses could yield additional insights for Microsoft's Movie Studios. Some questions to explore given the data available include:
 
  **-** Is there a correlation between a movie's ratings and their R.O.I.? Is there a difference in correlation when breaking down a movie's ratings by the movie's critic review vs. movie audience review?
  
