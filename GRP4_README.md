@@ -59,11 +59,11 @@ This project uses descriptive analysis and visualizations including trends over 
 
 3) Finally, there is no strong correlation between the number of movies that directors have been involved or the specific directors themselves and profits. The director's who made 5 or more movies in our date range did not make the most profitable movies. However, they also did not lose money and made steady and modest profits. Second, the most profitable movies were made by directors who produced 1 to 3 movies in that time. These movies did subtantially better than others, and therefore we could look deeper into them to find more insights
 
-![director_profit](./Images/director_profit.png)
+![director_profit](./Images/director_profit.PNG)
 
 4) In this section we analyzed whether or not there is a correlation between production budget and profit to decide if a studio should focus on producing fewer movies with higher production quality than to make more, lower budget films. Based on the appearance of a strong positive correlation between production budget and profit **we reccomend any studio looking to make large returns focus on producing fewer movies with higher production quality, taking a quality over quantity approach.**
 
-[production_profit_scatter](./Images/production_vs_profit.png)
+[production_profit_scatter](./Images/production_vs_profit.PNG)
 
 
 ## Conclusions
