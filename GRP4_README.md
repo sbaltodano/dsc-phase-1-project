@@ -63,9 +63,9 @@ This project uses descriptive analysis and visualizations including trends over 
 
 **3)** There is no strong correlation between the number of movies that directors have been involved in or the specific directors themselves and profits. The director's who made 5 or more movies in our date range did not make the most profitable movies. However, they also did not lose money and made steady and modest profits. Second, the most profitable movies were made by directors who produced 1 to 3 movies in that time. These movies did subtantially better than others, and therefore we could look deeper into them to find more insights.
 
-![Q3_table](./Images/Q3_table.PNG)
+![Q3_table](./Images/Q3_table.png)
 
-**4)** In this section we analyzed whether or not there is a correlation between production budget and profit to decide if a studio should focus on producing fewer movies with higher production quality than to make more, lower budget films. Based on the appearance of a strong positive correlation between production budget and profit **we recommend any studio looking to make large returns focus on producing fewer movies with higher production quality, taking a quality over quantity approach.**
+**4)** In this section we analyzed whether or not there is a correlation between production budget and profit to decide if a studio should focus on producing fewer movies with higher production quality than to make more, lower budget films. Based on the appearance of a strong positive correlation between production budget and profit.
 
 ![production_profit_scatter](./Images/production_vs_profit.PNG)
 
@@ -88,18 +88,22 @@ Based on this section of the analysis, Microsoft's movie studios should focus on
 **NOTE ON MUSICAL GENRE**:
 Initially, the musical genre seems to provide a substantial R.O.I. at first glance, but two caveats that should be named is that 1) There have been only 6 musical movies since 2010 and 2) The last musical movie was released back in 2017 which explains the continued upward trajetory it has which differs from the other genres.  
 
-**3)** There is no correlation between director choice and a film's success. Film directors cannot be considered a characteristic of success, because there is no strong correlation between profits and director choice. Directors with experience directing 5 or more films do not have a higher profits on average. The director of a film is not a characteristic of the success of a film.
+**3)** There is no strong correlation between director choice and a film's success. Directors who were involved in 5 or more films did not have a higher profits on average. On the other hand, after investigating the directors who made the highest average profit, we see that their movies are mostly Aventure and Animation. This confirms the results of the previous analysis on genres choice and a film's success.
 
 More research will need to be done on the characteristics that impact successful films, but from our preliminary research it's clear that the genre choice and the film's reach have a direct impact on success and must be considered when deciding which type of movies we will create.
 
-**4)**
+**4)** We recommend any studio looking to make large returns focus on producing fewer movies with higher production quality, taking a quality over quantity approach.
 
 
 ### Next Steps
 
-Further analysis...
+Further analyses could yield additional insights for Microsoft's Movie Studios. A few questions to explore given the data available include:
 
-Further analysis 
+ **-** Is there a correlation between a movie's ratings and their R.O.I.? Is there a difference in correlation when breaking down a movie's ratings by the movie's critic review vs. movie audience review?
+ 
+ **-** What other metrics determine success aside from Profits and R.O.I. What affect does a movie's ratings or the number of times it has been viewed?
+ 
+**-** We might not have had enough data to draw any correlation between director choice and a film's success. It may be interesting to gather more data and create a director profile dataset showing their performance. Perhaps, we could provide a suggested list of potential directors for Microsoft's new movie studio.
 
 
 ### Repository Structure(?)
