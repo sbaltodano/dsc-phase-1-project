@@ -56,12 +56,12 @@ This project uses descriptive analysis and visualizations including trends over 
 
 ![musical_table](./Images/musical_table.png)
 
-![sci-fi_table](./Images/sci-fi_table.png)
+![sci-fi_table](./Images/scifi_table.png)
 
 ![adventure_table](./Images/adventure_table.png)
 
 
-**3)** There is no strong correlation between the number of movies that directors have been involved in or the specific directors themselves and profits. The director's who made 5 or more movies in our date range did not make the most profitable movies. However, they also did not lose money and made steady and modest profits. Second, the most profitable movies were made by directors who produced 1 to 3 movies in that time. These movies did subtantially better than others, and therefore we could look deeper into them to find more insights.
+**3)** There is no strong correlation between the number of movies that directors have been involved in or the specific directors themselves and profits. The director's who made 5 or more movies in our date range did not make the most profitable movies. However, they also did not lose money and made steady and modest profits. The most profitable movies were made by directors who produced 1 to 3 movies in that time. These movies did subtantially better than others, and therefore we could look deeper into them to find more insights.
 
 ![Q3_table](./Images/Q3_table.png)
 
@@ -88,7 +88,7 @@ Based on this section of the analysis, Microsoft's movie studios should focus on
 **NOTE ON MUSICAL GENRE**:
 Initially, the musical genre seems to provide a substantial R.O.I. at first glance, but two caveats that should be named is that 1) There have been only 6 musical movies since 2010 and 2) The last musical movie was released back in 2017 which explains the continued upward trajetory it has which differs from the other genres.  
 
-**3)** There is no strong correlation between director choice and a film's success. Directors who were involved in 5 or more films did not have a higher profits on average. On the other hand, after investigating the directors who made the highest average profit, we see that their movies are mostly Animation. This confirms the results of the previous analysis on genres choice and a film's success.
+**3)** There is no strong correlation between director choice and a film's success. Directors who were involved in 5 or more films did not have a higher profits on average. On the other hand, after investigating the directors who made the highest average profit, we see that their movies are mostly Adventure. This confirms the results of the previous analysis on genres choice and a film's success.
 
 More research will need to be done on the characteristics that impact successful films, but from our preliminary research it's clear that the genre choice and the film's reach have a direct impact on success and must be considered when deciding which type of movies we will create.
 
