@@ -63,7 +63,7 @@ This project uses descriptive analysis and visualizations including trends over 
 
 **3)** There is no strong correlation between the number of movies that directors have been involved in or the specific directors themselves and profits. The director's who made 5 or more movies in our date range did not make the most profitable movies. However, they also did not lose money and made steady and modest profits. Second, the most profitable movies were made by directors who produced 1 to 3 movies in that time. These movies did subtantially better than others, and therefore we could look deeper into them to find more insights.
 
-![director_profit](./Images/director_profit.PNG)
+![Q3_table](./Images/Q3_table.PNG)
 
 **4)** In this section we analyzed whether or not there is a correlation between production budget and profit to decide if a studio should focus on producing fewer movies with higher production quality than to make more, lower budget films. Based on the appearance of a strong positive correlation between production budget and profit **we recommend any studio looking to make large returns focus on producing fewer movies with higher production quality, taking a quality over quantity approach.**
 
@@ -88,7 +88,7 @@ Based on this section of the analysis, Microsoft's movie studios should focus on
 **NOTE ON MUSICAL GENRE**:
 Initially, the musical genre seems to provide a substantial R.O.I. at first glance, but two caveats that should be named is that 1) There have been only 6 musical movies since 2010 and 2) The last musical movie was released back in 2017 which explains the continued upward trajetory it has which differs from the other genres.  
 
-**3)** there is no correlation between director choice and a film's success. Film directors cannot me considered a characteristic of success, because there is no corelation between profits and director choice. Directors with experience directing five or more films do not have a higher profits on average. The director of a film is not a characteristic of the success of a film.
+**3)** There is no correlation between director choice and a film's success. Film directors cannot be considered a characteristic of success, because there is no strong correlation between profits and director choice. Directors with experience directing 5 or more films do not have a higher profits on average. The director of a film is not a characteristic of the success of a film.
 
 More research will need to be done on the characteristics that impact successful films, but from our preliminary research it's clear that the genre choice and the film's reach have a direct impact on success and must be considered when deciding which type of movies we will create.
 
@@ -98,6 +98,8 @@ More research will need to be done on the characteristics that impact successful
 ### Next Steps
 
 Further analysis...
+
+Further analysis 
 
 
 ### Repository Structure(?)
