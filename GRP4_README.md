@@ -73,7 +73,7 @@ This project uses descriptive analysis and visualizations including trends over 
 ## Conclusions
 
 
-Our three recommendations to Microsoft's Movie Studio is to focus on:
+Our four recommendations to Microsoft's Movie Studio is to focus on:
 
 **1)** From what we see in the graphs above and based on worst, base, and best case scenarios for each genre, we should create films in the **adventure and animation** genres. Although their best case ROI predictions are not as high as the mystery and musical genres, their worst case ROI predications are both far above 0%.
 
@@ -106,5 +106,16 @@ Further analyses could yield additional insights for Microsoft's Movie Studios. 
 **-** We might not have had enough data to draw any correlation between director choice and a film's success. It may be interesting to gather more data and create a director profile dataset showing their performance. Perhaps, we could provide a suggested list of potential directors for Microsoft's new movie studio.
 
 
-### Repository Structure(?)
+### Repository Structure
+
+```
+├── .ipynb_checkpoints
+├── Data
+├── Images
+├── zippedData
+├── GR4_README.md
+├── final-data.csv
+├── project.ipynb
+└── slides.pdf
+```
 
