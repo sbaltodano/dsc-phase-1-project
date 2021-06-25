@@ -63,7 +63,7 @@ This project uses descriptive analysis and visualizations including trends over 
 
 4) In this section we analyzed whether or not there is a correlation between production budget and profit to decide if a studio should focus on producing fewer movies with higher production quality than to make more, lower budget films. Based on the appearance of a strong positive correlation between production budget and profit **we reccomend any studio looking to make large returns focus on producing fewer movies with higher production quality, taking a quality over quantity approach.**
 
-[production_profit_scatter](./Images/production_vs_profit.PNG)
+![production_profit_scatter](./Images/production_vs_profit.PNG)
 
 
 ## Conclusions
