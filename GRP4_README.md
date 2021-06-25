@@ -46,6 +46,8 @@ This project uses descriptive analysis and visualizations including trends over 
 
 2) Exploring the foreign R.O.I. vs. the domestic R.O.I. for each of the top 5 genres, Mystery is the only genre that on average performs on a similar wavelength for domestic and foreign markets. The foreign R.O.I. for the other genres is greater than the domestic R.O.I. to various degrees. The average domestic R.O.I. for Musical, Sci-Fi, and adventure is a negative % return.
 
+![overall_table](./Images/overall_table.png)
+
 ![mystery_table](./Images/mystery_table.png)
 
 ![animation_table](./Images/animation_table.png)
